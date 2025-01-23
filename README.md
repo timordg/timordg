@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Timo @timordg
-- 👀 I’m interested in Graph-Neural-Networks, Deep Learning and Music
+- 👀 I’m interested in Graph-Neural-Networks, Recommender Systems, Deep Learning and Music
 - 🌱 I’m currently learning more on LLMs
 <!---
 - 📫 How to reach me timo.rodinger@gmail.com
